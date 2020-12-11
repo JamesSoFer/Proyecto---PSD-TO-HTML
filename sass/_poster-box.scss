@@ -1,0 +1,70 @@
+.wrapper-6 {
+    max-width: 1600px;
+    height: 1337px;
+    margin: 0 auto;
+}
+
+#title-box h2{
+    font-size: 45px;
+    margin-top: 140px;
+    margin-left: 100px;
+    margin-bottom: 44px;
+}
+
+#lineblack {
+    height: 2px;
+    width: 5%;
+    margin-left: 100px;
+} 
+
+#columns-posters {
+    width: 1400px;
+    margin: 0 auto;
+}
+
+#column-1 {
+    float: left;
+    height: 742px;
+}
+
+#column-2 {
+    float: right;
+    width: 742px;
+    height: 742px;
+}
+
+#img-03{
+    float: right;
+    margin-top: 40px;
+    margin-left: 16px;
+}
+
+#img-02{
+    margin-top: 40px;
+}
+
+#button-poster {
+    float: left;
+    margin-top: 20px;
+    height: 200px;
+    width: 1600px;
+}
+
+#button-02 {
+    font-size: 16px;
+    text-transform: uppercase;
+    margin-top: 87px;
+    text-align: center;
+    text-decoration: none;
+}
+
+#button-02 a{
+    color: black;
+    font-size: 16px;
+    text-transform: uppercase;
+    text-align: center;
+    text-decoration: none;
+    padding: 22px 40px 22px 40px;
+    border: 2px solid black;
+    border-radius: 8px;
+}

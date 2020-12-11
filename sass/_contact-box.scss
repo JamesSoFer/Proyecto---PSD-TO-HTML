@@ -1,0 +1,85 @@
+.wrapper-7 {
+    max-width: 1600px;
+    height: 540px;
+    margin: 0 auto;
+    background-color: white;
+}
+
+#browse {
+    float: left;
+    width: 400px;
+    height: 540px;
+
+    h2 {
+        padding-left: 40px;
+    }
+
+    ul{
+        text-transform: uppercase;
+        list-style: none;
+        padding-top: 20px;
+    }
+
+    li {
+        margin-top: 10px;
+    }
+}
+
+#shop {
+    float: left;
+    width: 400px;
+    height: 540px;
+
+    h2 {
+        padding-left: 40px;
+    }
+
+    ul{
+        text-transform: uppercase;
+        list-style: none;
+        padding-top: 20px;
+    }
+
+    li {
+        margin-top: 10px;
+    }
+}
+
+#contact {
+    float: left;
+    width: 400px;
+    height: 540px;
+
+    p {
+        width: 250px;
+    }
+}
+
+#subscribe-now {
+    float: left;
+    width: 400px;
+    height: 540px;
+
+    p {
+        width: 250px;
+    }
+
+    #button-submit-01 {
+        font-size: 16px;
+        text-transform: uppercase;
+        margin-top: 87px;
+        text-align: center;
+        text-decoration: none;
+    }
+    
+    #button-submit-01 a{
+        color: black;
+        font-size: 16px;
+        text-transform: uppercase;
+        text-align: center;
+        text-decoration: none;
+        padding: 10px 20px 10px 20px;
+        border: 2px solid black;
+        border-radius: 8px;
+    }
+}

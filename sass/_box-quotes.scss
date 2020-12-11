@@ -1,0 +1,43 @@
+// styles
+
+.wrapper-3 {
+    max-width: 1600px;
+    margin: 0 auto;
+}
+
+#boxes-quotes {
+    max-width: 1600px;
+    height: 650px;
+    margin: 0 auto;
+    background-color: #ffeae2;
+}
+
+#quote-box-1 {
+    display: inline-block;
+    float: left;
+    max-width: 800px;
+    height: 650px;
+}
+
+#quote-box-1 p{
+    font-size: 28px;
+    font-weight: bold;
+    color: black;
+    width: 500px;
+    height: 250px;
+    margin-left: 100px;
+    padding-top: 100px;
+}
+
+#quote-box-1 h3{
+    font-size: 28px;
+    font-weight: lighter;
+    color: black;
+    padding-top: 40px;
+    margin-left: 100px;
+}
+
+#image-box-2 img{
+    display: flex;
+    float: right;
+}

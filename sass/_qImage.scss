@@ -1,0 +1,35 @@
+.wrapper-5 {
+    max-width: 1600px;
+    height: 669px;
+    margin: 0 auto;
+}
+
+#quote-image img{
+    position: absolute;
+}
+
+#quote-image p{
+    font-size: 45px;
+    width: 829px;
+    color: white;
+    font-weight: bold;;
+    text-align: center;
+    padding-top: 200px;
+    padding-left: 369px;
+    position: relative;
+}
+
+#description p{
+    font-weight: lighter;
+    font-size: 16px;
+    width: 829px;
+    color: white;
+    padding-top: 50px;
+    padding-left: 400px;
+    position: relative;
+}
+
+#description p a{
+    font-weight: lighter;
+    color: white;
+}
